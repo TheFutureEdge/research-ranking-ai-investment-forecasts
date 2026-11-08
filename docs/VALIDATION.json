@@ -1,0 +1,16 @@
+{
+  "pass": true,
+  "original_formula_orders": 288,
+  "rescoring_policy_groups": 4140,
+  "portfolio_and_daily_checks": {
+    "original": {
+      "portfolios": 3456,
+      "daily_rows": 577152
+    },
+    "rescoring": {
+      "portfolios": 8280,
+      "daily_rows": 1558020
+    }
+  },
+  "elapsed_seconds": 6.47
+}

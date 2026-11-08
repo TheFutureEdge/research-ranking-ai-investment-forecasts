@@ -1,0 +1,27 @@
+\subsection{Separating the archived volatility mechanisms}
+
+The archive allows the volatility trade-off to be examined more closely.
+A00 adds only the softer volatility denominator to G10; G26 switches on
+the full volatility bundle while retaining G10's disagreement settings;
+B02 uses the pure excess-return/volatility ratio. Across the 36 matched
+cohort, breadth and allocation constructions under each entry convention,
+their differences from G10 are:
+
+\begin{minipage}{\linewidth}
+\begin{center}\small\setlength{\tabcolsep}{4pt}\renewcommand{\arraystretch}{1.18}
+\begin{longtable}{@{}lrrrr@{}}\toprule
+Rule & Anchor R pp & Anchor DD gain & Available R pp & Available DD gain\\\midrule\endhead
+A00 & -0.49 & +1.21 & +0.04 & +0.53\\
+G26 & -4.51 & +3.71 & -1.80 & +1.61\\
+B02 & -6.17 & +4.99 & -1.82 & +3.14\\
+\bottomrule\end{longtable}\end{center}
+\end{minipage}\par
+
+A00 preserves more upside while providing a modest drawdown improvement.
+B02 makes the stronger risk-objective trade: its average drawdown gain is
+4.99 percentage points at anchor entry and 3.14 points at availability,
+compared with 3.71 and 1.61 points for the bundled G26 rule. The profiles
+also differ in design: A00's denominator rises only to 1.25, versus 2.0
+inside the full bundle, and B02 omits the ensemble-disagreement penalties.
+This comparison explains the separate roles of the simple return-focused
+and volatility-adjusted screens.

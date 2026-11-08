@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: Please cite the paper and identify the exact artifact version used.
+type: dataset
+title: "Ranking AI Investment Forecasts: Original Scoring, Dynamic Rescoring, and the Trade-Off Between Return-Focused and Risk-Adjusted Strategies"
+version: 1.0.0
+date-released: '2026-11-08'
+authors:
+  - family-names: Ramdowar
+    given-names: Russlan
+    affiliation: Future Edge Group FZE / iPulse AI
+    email: russlan@ipulseai.com
+    orcid: https://orcid.org/0009-0004-9311-6957
+license: CC-BY-4.0
+doi: 10.5281/zenodo.24051542
+url: https://doi.org/10.5281/zenodo.24051542
+repository-code: https://github.com/TheFutureEdge/research-ranking-ai-investment-forecasts
+abstract: "AI investment platforms face a two-clock problem: expensive multi-agent research changes slowly, while market prices move daily. We separate original forecast scoring from later rescoring and distinguish return-focused from volatility-adjusted investment objectives. An original-scoring study evaluates 48 fixed formulas across six stock cohorts, yielding 3,456 portfolios. A separate rescoring study tests 115 policies at 7-, 14- and 30-day checkpoints, yielding 8,280 portfolios. Each starts with USD100,000 and tracks actual distributions, corporate actions and foreign exchange. G10, a return-focused formula discounting ensemble disagreement, ties for the strongest Top 10 equal-weight return midrank. B02, a simple forecast excess-return-to-historical-volatility ratio, provides the strongest return-to-drawdown profile among 27 volatility-aware rules. For one-year BUY rescoring, a 75% original/25% updated G10 blend outperforms raw updated G10 in 15 of 18 primary cells, raising mean return from 12.80% to 19.54%. Stock-level attribution identifies retention of early risers as the leading mechanism. The advantage weakens under concentration controls across all six cohorts; raw updated G10 is retained for five-year rescoring on matched-cell consistency. A separate 203-stock research-reuse bridge finds a 1.23-percentage-point improvement from blending in unchanged-model short Top 10 windows, while broader portfolios and longer holding windows expose its limits. The findings support distinct ranking objectives, continuity-aware short-window reuse and fresh research when underlying theses need rebuilding. The experiments are retrospective, with overlapping and unequal holding windows."
+keywords:
+  - multi-agent systems
+  - investment forecasts
+  - portfolio ranking
+  - dynamic rescoring
+  - forecast aggregation
+preferred-citation:
+  type: unpublished
+  title: "Ranking AI Investment Forecasts: Original Scoring, Dynamic Rescoring, and the Trade-Off Between Return-Focused and Risk-Adjusted Strategies"
+  authors:
+    - family-names: Ramdowar
+      given-names: Russlan
+      orcid: https://orcid.org/0009-0004-9311-6957
+  year: 2026
+  doi: 10.5281/zenodo.24051542
+  url: https://doi.org/10.5281/zenodo.24051542
+  notes: Preprint. Original-scoring cutoff 2 November 2026; rescoring cutoff 3 November 2026.
