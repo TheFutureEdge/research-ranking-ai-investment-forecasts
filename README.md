@@ -16,7 +16,7 @@ ranking from explicit normalization for historical price volatility.
 - Paper: [PDF](paper/Ranking_AI_Investment_Forecasts.pdf)
 - Source: [LaTeX](paper/main.tex), [Markdown](paper/Ranking_AI_Investment_Forecasts.md)
 - Zenodo: [10.5281/zenodo.24051542](https://doi.org/10.5281/zenodo.24051542) (version 1.0.0).
-- arXiv: submission in preparation under cs.MA; identifier will be added after announcement.
+- arXiv: submitted under cs.MA on 8 November 2026; public identifier will be added after announcement.
 
 This is a new ranking paper. Its companion research-budget paper is
 [arXiv:2611.04348](https://arxiv.org/abs/2611.04348), with the exact bridge artifacts

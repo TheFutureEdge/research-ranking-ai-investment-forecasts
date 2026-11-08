@@ -1,10 +1,10 @@
 {
   ".gitignore": "d9d5d774e35d1a2abeb1c649503c0d217aa57d70e3cade916814fcc7260751d8",
-  ".zenodo.json": "95557e1ebd4c209fe0d865acd05d6292b6966dabb178e1ece361ee7652ea2e15",
+  ".zenodo.json": "89db598e05fd2e86d146f906a0f6353f315d6c7e82380b25909fbf979c72f8ac",
   "CITATION.cff": "18e985fdab527a4e32d56d975221c7ebfa66c34b6a8511fe938d6de9fa231aab",
   "LICENSE-CODE": "71846ff83c1c49d471f4ee626cdff3c8824f07668bafb4baf3400bccd1fd1610",
   "LICENSE-DATA-AND-PAPER": "821608ba3796915edfa024c7e3b36d55823d8f05d411108d2d2b75cbf8538946",
-  "README.md": "07588d8ce1636a59b7dbabc761584c7c792b4dfb7802e65200ddf8e19f73a7e4",
+  "README.md": "ca9ca9c23305d86dc8834898c7cb53f918f654dca28211b866320a158481dbf4",
   "code/original_scoring.py": "6898b0a6dccdb008c469a450d4af57a7cb399e19049bc38b6f9b5caf180e9483",
   "code/rescoring.py": "3561323573d77bf0926b50ad8b2f54764af00306bb3b0289c2211730f3aa4397",
   "code/verify_diagnostics.py": "20547595e98ab1118e299d549ebafbe37bdc315f4db31f6714120b8e9da608cd",
